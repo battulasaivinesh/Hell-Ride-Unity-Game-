@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fbdadb850e2db4703bc75dd09ad60ca0
+timeCreated: 1512834233
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JMH Mariana Blanca
+  fontNames:
+  - JMH Mariana Blanca
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

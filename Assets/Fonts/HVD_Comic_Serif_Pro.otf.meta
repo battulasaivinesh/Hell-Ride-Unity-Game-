@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ffd113f6ac7543d89d62ae1cb72099a
+timeCreated: 1520717381
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HVD Comic Serif Pro
+  fontNames:
+  - HVD Comic Serif Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
